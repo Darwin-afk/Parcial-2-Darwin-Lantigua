@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial2_Darwin_Lantigua", "Parcial2_Darwin_Lantigua\Parcial2_Darwin_Lantigua.csproj", "{AE78F6B7-5D47-45EB-9A26-6C2E21AA066C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE78F6B7-5D47-45EB-9A26-6C2E21AA066C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE78F6B7-5D47-45EB-9A26-6C2E21AA066C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE78F6B7-5D47-45EB-9A26-6C2E21AA066C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE78F6B7-5D47-45EB-9A26-6C2E21AA066C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {150670CB-1D1D-4129-841A-7E8FB199E7EF}
+	EndGlobalSection
+EndGlobal

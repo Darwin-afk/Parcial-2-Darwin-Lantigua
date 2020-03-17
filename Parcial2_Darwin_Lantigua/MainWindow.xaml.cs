@@ -13,7 +13,6 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Parcial2_Darwin_Lantigua.UI.Registros;
-using Parcial2_Darwin_Lantigua.UI.Consultas;
 
 namespace Parcial2_Darwin_Lantigua
 {

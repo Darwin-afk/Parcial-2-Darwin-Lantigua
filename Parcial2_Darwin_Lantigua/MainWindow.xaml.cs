@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Parcial2_Darwin_Lantigua.UI.Registros;
+using Parcial2_Darwin_Lantigua.UI.Consultas;
 
 namespace Parcial2_Darwin_Lantigua
 {
@@ -23,6 +25,12 @@ namespace Parcial2_Darwin_Lantigua
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void RegistrarButton_Click(object sender, RoutedEventArgs e)
+        {
+            rParcial r = new rParcial();
+            r.Show();
         }
     }
 }
